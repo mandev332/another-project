@@ -1,5 +1,8 @@
 #include <stdio.h> 
 void  maktab()
+
+// Bu dars jadvali maktab uchun
+
 {
 	char fan  , oqituvchi[15] ; int mat,fiz,ing,tar,ona,inf,a_kuni2=6,b_kuni2=6,c_kuni2=6,d_kuni2=6,e_kuni2=6,f_kuni2=6,a=1,b=1,c=1,d=1,e=1,f=1,aa=1,bb=1,cc=1,a2=1,b2=1,c2=1,m2=3,n=0;  p:
 	printf ("\tJADVAL\nQaysi fandan dars berasiz?\na)Matematika\nb)Fizika\nc)Ingliz tili\nd)Tarix\ne)Ona tili\nf)Informatika\n");
